@@ -22,12 +22,6 @@
 - **PostgreSQL** (opcional): Base de datos relacional robusta, pero puedes usar la base de datos con la que te sientas más cómodo.
 - **Maven**: Herramienta de gestión de dependencias y construcción.
 
-## 2. Configura la base de datos (opcional)
-
-Si decides usar PostgreSQL, crea una base de datos llamada literatura1:
-![Captura de Pantalla 2024-11-05 a la(s) 10 15 42 a  m](https://github.com/user-attachments/assets/6e681b21-bd3f-4b9f-90c4-9c8c6d58f044)
-
-
 
 ## 📋 Requisitos
 
@@ -39,8 +33,12 @@ Si decides usar PostgreSQL, crea una base de datos llamada literatura1:
    🎮 Cómo Usar
 Una vez que la aplicación esté en funcionamiento, interactúa con ella a través de un menú intuitivo en la consola. Aquí tienes un vistazo a las opciones:
 
-Menú Principal
-Buscar Libro por Título - Encuentra un libro y selecciona la versión que deseas guardar.
+## Menú Principal
+
+ ![Captura de Pantalla 2024-11-05 a la(s) 10 18 55 a  m](https://github.com/user-attachments/assets/b39e5acf-b55b-484c-94d5-658643ed8a30)
+
+Buscar Libro por
+Título - Encuentra un libro y selecciona la versión que deseas guardar.
 Listar Libros Registrados - Visualiza todos tus libros.
 Listar Autores Registrados - Consulta tus autores favoritos.
 Listar Autores Vivos en un Año - Descubre qué autores están vivos en un año específico.
