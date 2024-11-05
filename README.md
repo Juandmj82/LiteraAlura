@@ -22,11 +22,11 @@
 - **PostgreSQL** (opcional): Base de datos relacional robusta, pero puedes usar la base de datos con la que te sientas más cómodo.
 - **Maven**: Herramienta de gestión de dependencias y construcción.
 
-2. Configura la base de datos (opcional)
+## 2. Configura la base de datos (opcional)
 
 Si decides usar PostgreSQL, crea una base de datos llamada literatura1:
+![Captura de Pantalla 2024-11-05 a la(s) 10 15 42 a  m](https://github.com/user-attachments/assets/6e681b21-bd3f-4b9f-90c4-9c8c6d58f044)
 
-CREATE DATABASE literatura1;
 
 
 ## 📋 Requisitos
