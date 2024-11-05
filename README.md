@@ -22,6 +22,13 @@
 - **PostgreSQL** (opcional): Base de datos relacional robusta, pero puedes usar la base de datos con la que te sientas más cómodo.
 - **Maven**: Herramienta de gestión de dependencias y construcción.
 
+2. Configura la base de datos (opcional)
+
+Si decides usar PostgreSQL, crea una base de datos llamada literatura1:
+
+CREATE DATABASE literatura1;
+
+
 ## 📋 Requisitos
 
 - JDK 17 o superior
